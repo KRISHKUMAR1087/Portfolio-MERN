@@ -1,0 +1,13 @@
+export { AnimatedCursor } from './AnimatedCursor';
+export { Navigation } from './Navigation';
+export { Hero } from './Hero';
+export { About } from './About';
+export { Hobbies } from './Hobbies';
+export { Education } from './Education';
+export { Achievements } from './Achievements';
+export { Certifications } from './Certifications';
+export { Projects } from './Projects';
+export { Contact } from './Contact';
+export { AnimatedCard } from './AnimatedCard';
+export { MotionBackdrop } from './MotionBackdrop';
+export { ScrollProgress } from './ScrollProgress';
