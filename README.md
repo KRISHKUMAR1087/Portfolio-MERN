@@ -206,4 +206,4 @@ For issues or questions, please check the documentation or create an issue on Gi
 
 ---
 
-Built with ❤️ by Darji Krishkumar
+Built by Darji Krishkumar
